@@ -46,7 +46,6 @@ python motion_detector.py
 Use the GUI:
 
 
-BY - VISNU SINGH
 Click "Live Motion Detection" to use webcam
 
 Click "Recorded File Motion" to select a saved video
